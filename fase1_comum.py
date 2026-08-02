@@ -1,7 +1,7 @@
 """
-Harness compartilhado da Fase 1 — usado pelos notebooks das três trilhas e pela conclusão.
+Harness compartilhado da Fase 1 — usado pelos notebooks das duas trilhas e pela conclusão.
 
-Garante que A (gradient boosting), B (rede neural) e C (convolucional) sejam avaliadas na
+Garante que A (gradient boosting) e B (rede neural) sejam avaliadas na
 MESMA régua: mesmo split temporal, mesmas features honestas (sem preço/vazamento), mesma
 métrica RMSSE, e a mesma seção de resultados em três níveis de serviço (econômico/médio/seguro).
 """
